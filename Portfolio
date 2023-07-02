@@ -7,11 +7,24 @@
    <link href = "">
 </head>
 <body>
-    <header class="navbar">
+    </header>
+    <nav class="navbar bg-primary-subtle">
         <div class = "container-fluid">
             <a class = "navbar-brand" href = "#">Welcome</a>
         </div>
-    </header>
+    </nav>
+</header>
+<main>
+    <section class="hero">
+      <div class="hero-texc">
+
+      </div>
+      <div class="hero-image">
+
+      </div>
+    </section>
+  </main>
+  <footer></footer>
    <h1>Hello There</h1>
    <script src=""">
 </script>
