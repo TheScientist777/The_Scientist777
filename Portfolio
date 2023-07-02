@@ -37,10 +37,10 @@
 </header>
 <main>
     <section class="hero container row mx-auto">
-      <div class="hero-texc col-5 bg-danger">
+      <div class="hero-texc col-lg-5 bg-danger">
         <p>Hello</p>
       </div>
-      <div class="hero-image col-7 bg-warning">
+      <div class="hero-image col-lg-7 bg-warning">
         <p>There</p>
       </div>
     </section>
