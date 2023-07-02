@@ -35,11 +35,11 @@
     </nav>
 </header>
 <main>
-    <section class="hero container d-flex">
-      <div class="hero-texc">
+    <section class="hero container row">
+      <div class="hero-texc col-5 bg-danger">
         <p>Hello</p>
       </div>
-      <div class="hero-image">
+      <div class="hero-image col-7 bg-warning">
         <p>There</p>
       </div>
     </section>
