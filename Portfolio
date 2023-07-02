@@ -35,12 +35,12 @@
     </nav>
 </header>
 <main>
-    <section class="hero">
+    <section class="hero container">
       <div class="hero-texc">
-
+        <p>Hello</p>
       </div>
       <div class="hero-image">
-
+        <p>There</p>
       </div>
     </section>
   </main>
