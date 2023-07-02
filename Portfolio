@@ -42,16 +42,16 @@
         <p>Subtitle</p>
         <p>Impressive text</p>
         <div>
-            <button>
+            <button class ="btn btn-warning text-tertieary font bold">
                 Resume
             </button>
-            <button>
+            <button class = "btn">
                 Projects
             </button>
         </div>
       </div>
-      <div class="hero-image col-lg-7 bg-warning">
-        <img src="/Users/macbookpro/Pictures/Photos Library.photoslibrary/originals/E/E12D062E-A033-4A07-9298-9F9A27AE92B5.jpeg" alt="">
+      <div class="hero-image col-lg-7 bg-warning bg opacity-50">
+        <img src="/Users/macbookpro/Pictures/Photos Library.photoslibrary/originals/E/E12D062E-A033-4A07-9298-9F9A27AE92B5.jpeg" alt="Profile image">
       </div>
     </section>
     Links
