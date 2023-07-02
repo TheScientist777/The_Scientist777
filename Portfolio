@@ -36,7 +36,7 @@
     </nav>
 </header>
 <main>
-    <section class="hero container row mx-auto">
+    <section class="hero container row mx-auto gap-5">
       <div class="hero-texc col-lg-5 bg-danger opacity-50">
         <p>Keywords</p>
         <p>Subtitle</p>
