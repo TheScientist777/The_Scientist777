@@ -1,4 +1,7 @@
 .hero {
     padding-block: 32px;
-    background-color: darkslategray;
+    
+}
+body {
+    background-color: dimgray;
 }
