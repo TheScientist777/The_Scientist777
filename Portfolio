@@ -42,7 +42,7 @@
         <p>Subtitle</p>
         <p>Impressive text</p>
         <div>
-            <button class ="btn btn-warning text-tertieary font bold">
+            <button class ="btn btn-warning text-tertieary fw-bold">
                 Resume
             </button>
             <button class = "btn">
