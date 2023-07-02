@@ -37,8 +37,18 @@
 </header>
 <main>
     <section class="hero container row mx-auto">
-      <div class="hero-texc col-lg-5 bg-danger">
-        <p>Hello</p>
+      <div class="hero-texc col-lg-5 bg-danger opacity-50">
+        <p>Keywords</p>
+        <p>Subtitle</p>
+        <p>Impressive text</p>
+        <div>
+            <button>
+                Resume
+            </button>
+            <button>
+                Projects
+            </button>
+        </div>
       </div>
       <div class="hero-image col-lg-7 bg-warning">
         <p>There</p>
