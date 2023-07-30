@@ -1,77 +1,94 @@
 <!DOCTYPE html>
-<html lang ="en" data-bs-theme="dark">
+<html lang="en" data-bs-theme="dark">
+
 <head>
-   <meta charset = "UTF-8"> 
-   <meta name ="viewport" content ="width=device-width, inital-scale=1.0"><meta>   
-   <title>Philip Rojas</title>
-   <link href = "htpps://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootsrap-icons.css">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-   <link rel ="stylesheet" href = "style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Philip Rojas</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    </header>
-    <nav class="navbar bg-primary-subtle">
-        <div class = "container-fluid">
-            <a class = "navbar-brand" href = "/"></a>
-             <i class ="bi bi-braces text-warning"></i>
-              Welcome
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                      <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Resume</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Portfolio</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Contact us</a>
-                      </li>
-                    </ul>
-                  </div>
+  <header>
+    <nav class="navbar navbar-expand-lg bg-primary-subtle py-4">
+      <div class="container-fluid">
+        <a class="navbar-brand " href="/">
+          <i class="bi bi-braces text-warning"></i>
+          Welcome
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link" href="/resume.html">Resume</a>
+            <a class="nav-link" href="/portfolio.html">Portfolio</a>
+            <a class="nav-link" href="/contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
     </nav>
-</header>
-<main>
-  <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
-  </section>
-  <section class="bg-light-subtle">
-    <div class="container py-5 text-center">
-        <p class="display-1">About Me</p>
-        <p class="about-text lead mb-5">My name is Philip Mark Rojas. I am confident in making concept art sketches and turning them into 3D with Blender, Animation, Character rigging, 3D printing, photoshop, drone photography, video editing, and recently got into web developmet using Javascript, html, CSS. I am also great at any social enviroment and a master martial artist.</p>
-        <div class="is1">
-          <i class="bi bi-twitter">
-          <i class="bi bi-github">
-          <i class="bi bi-linkedin">
-      <div class="hero-texc col-lg-4 text-center d-flex flex-column gap-3">
-        <p class="text-uppercase">Developer | Animator | right hand manager</p>
+  </header>
+  <main>
+    <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
+      <div class="hero-text col-lg-5 text-center d-flex flex-column gap-3">
+        <p class="text-uppercase">Developer | Mentor | Leader</p>
         <div class=" mb-5 d-flex flex-column">
-        <p class="lead f2-1 fw-lighter mb-0">With me you can</p>
-        <p class="display-2 fw-semibold mb-5">Make your art come to life.</p>
+          <p class="lead fs-1 fw-lighter">With me you can</p>
+          <p class="display-1">Innovate. Grow. Succeed</p>
         </div>
-        <div class="btn justify-content-center gap-5">
-            <a href="#" class ="btn btn-warning text-tertieary fw-bold btn-lg px-5">
-                Resume
-            </a>
-            <a href="#" class = "btn btn-outline-warning text-tertieary fw-bold btn-lg px-5">
-                Projects
-            </a>
+        <div class="d-flex justify-content-center gap-5">
+          <a href="/resume.html" class="btn btn-warning text-tertieary fw-bold btn-lg px-5 py-3">
+            Resume
+          </a>
+          <a href="/portfolio.html" class="btn btn-outline-warning btn-lg fw-bold btn-lg px-5 py-3">
+            Portfolio
+          </a>
         </div>
       </div>
-      <div class="hero-image rounded-4 col-lg-6 bg-warning bg opacity-50">
-        <img class = "img-fluid mx-auto d-block" src="me tux.jpeg" alt="Profile image">
+      <div class="hero-image rounded-4 col-lg-6 bg-warning bg-opacity-50">
+        <img class="img-fluid mx-auto d-block" src="me.png" alt="Profile Image">
       </div>
-    </section class="bg-light-subtle">
-    <div class="container py-5 text-center">
-    Links
-    </div>
+    </section>
+    <section class="about bg-light-subtle">
+      <div class="container py-5 text-center d-flex flex-column">
+        <p class="display-1">About Me</p>
+        <p class="about-text lead mb-5">>My name is Philip Mark Rojas. I am confident in making concept art sketches and turning them into 3D with Blender, Animation, Character rigging, 3D printing, photoshop, drone photography, video editing, and recently got into web developmet using Javascript, html, CSS. I am also great at any social enviroment and a master martial artist.</p>.
+        <div class="fs-1 d-flex justify-content-center gap-4">
+          <a href="http://twitter.com/RodoRomanV">
+            <i class="bi bi-twitter" style="color: #1DA1F2;"></i>
+          </a>
+          
+          <a href="http://github.com/rromanv" >
+            <i class="bi bi-github text-white"></i>
+          </a>
+          
+          <a href="http://linkedin.com/in/rodolforoman">
+            <i class="bi bi-linkedin" style="color: #2867B2;"></i>
+          </a>
+
+          
+          
+        </div>
+      </div>
+    </section>
   </main>
-  <footer></footer>
-   <h1></h1>
-   <script src=""">
-</script>
+  <footer>
+    <nav class="py-5 container">
+      <p class="text-center">Project for COSC 1315, Summer 2023</p>
+    </nav>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+    integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+    crossorigin="anonymous"></script>
 </body>
+
 </html>
