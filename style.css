@@ -5,3 +5,11 @@
 .about > .container > .about-text {
    font-size: 2rem;
 }
+
+[class^="icon-"], [class*=" icon-"]{
+    background:none!important;
+}
+
+.btn [class^="icon-"], .btn [class*=" icon-"] {
+    line-height: 1.3em;
+}
