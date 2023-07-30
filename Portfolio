@@ -13,7 +13,7 @@
     <nav class="navbar bg-primary-subtle">
         <div class = "container-fluid">
             <a class = "navbar-brand" href = "/"></a>
-             <i class ="bi bi-braces"></i>
+             <i class ="bi bi-braces text-warning"></i>
               Welcome
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,8 +55,10 @@
       <div class="hero-image rounded-4 col-lg-6 bg-warning bg opacity-50">
         <img class = "img-fluid mx-auto d-block" src="me tux.jpeg" alt="Profile image">
       </div>
-    </section>
+    </section class="bg-light-subtle">
+    <div class="container py-5 text-center">
     Links
+    </div>
   </main>
   <footer></footer>
    <h1></h1>
