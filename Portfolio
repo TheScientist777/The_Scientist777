@@ -41,7 +41,7 @@
   <section class="bg-light-subtle">
     <div class="container py-5 text-center">
         <p class="display-1">About Me</p>
-        <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, saepe. Explicabo error illum fugit veniam libero nisi, assumenda deleniti cumque mollitia laborum fuga nam eum rem nihil consequuntur nostrum ab.</p>
+        <p class="about-text lead mb-5">My name is Philip Mark Rojas. I am confident in making concept art sketches and turning them into 3D with Blender, Animation, Character rigging, 3D printing, and recently got into web developmet using Javascript, html, CSS. I am also great at any social enviroment and a master martial artist.  </p>
       <div class="hero-texc col-lg-4 text-center d-flex flex-column gap-3">
         <p class="text-uppercase">Developer | Animator | right hand manager</p>
         <div class=" mb-5 d-flex flex-column">
