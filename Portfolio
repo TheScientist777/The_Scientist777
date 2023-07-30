@@ -38,16 +38,16 @@
 <main>
     <section class="hero container row mx-auto gap-5">
       <div class="hero-texc col-lg-5 bg-danger opacity-50">
-        <p>Keywords</p>
-        <p>Subtitle</p>
-        <p>Impressive text</p>
-        <div>
-            <button class ="btn btn-warning text-tertieary fw-bold">
+        <p class="text-uppercase">Developer | Animator | right hand manager</p>
+        <p class="lead f2-1 fw-lighter mb-0">Subtitle</p>
+        <p class="display-2 fw-semibold mb-5">Impressive text</p>
+        <div class="btn justify-content-center gap-5">
+            <a href="#" class ="btn btn-warning text-tertieary fw-bold btn-lg px-5">
                 Resume
-            </button>
-            <button class = "btn">
+            </a>
+            <a href="#" class = "btn btn-outline-warning text-tertieary fw-bold btn-lg px-5">
                 Projects
-            </button>
+            </a>
         </div>
       </div>
       <div class="hero-image col-lg-7 bg-warning bg opacity-50">
