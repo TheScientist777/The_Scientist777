@@ -2,6 +2,6 @@
     padding-block: 32px;
     
 }
-body {
-    background-color: darkslategray;
+.about > .container > .about-text {
+   font-size: 2rem;
 }
