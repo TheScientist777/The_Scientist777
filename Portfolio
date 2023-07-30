@@ -37,11 +37,11 @@
 </header>
 <main>
     <section class="hero container row mx-auto gap-5">
-      <div class="hero-texc col-lg-5 text-center d-flex flex-column gap-3">
+      <div class="hero-texc col-lg-4 text-center d-flex flex-column gap-3">
         <p class="text-uppercase">Developer | Animator | right hand manager</p>
         <div class=" mb-5 d-flex flex-column">
-        <p class="lead f2-1 fw-lighter mb-0">Welcome to my site</p>
-        <p class="display-2 fw-semibold mb-5">Achiever of the impossible and a manager with experience.</p>
+        <p class="lead f2-1 fw-lighter mb-0">With me you can</p>
+        <p class="display-2 fw-semibold mb-5">Make your art come to life.</p>
         </div>
         <div class="btn justify-content-center gap-5">
             <a href="#" class ="btn btn-warning text-tertieary fw-bold btn-lg px-5">
