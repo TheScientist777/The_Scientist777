@@ -36,7 +36,7 @@
     </nav>
 </header>
 <main>
-    <section class="hero container row mx-auto gap-5">
+    <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
       <div class="hero-texc col-lg-4 text-center d-flex flex-column gap-3">
         <p class="text-uppercase">Developer | Animator | right hand manager</p>
         <div class=" mb-5 d-flex flex-column">
@@ -52,8 +52,8 @@
             </a>
         </div>
       </div>
-      <div class="hero-image col-lg-7 bg-warning bg opacity-50">
-        <img src="me tux.jpeg" alt="Profile image">
+      <div class="hero-image rounded-4 col-lg-6 bg-warning bg opacity-50">
+        <img class = "img-fluid mx-auto d-block" src="me tux.jpeg" alt="Profile image">
       </div>
     </section>
     Links
