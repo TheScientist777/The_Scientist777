@@ -43,10 +43,10 @@
           <p class="display-1">Make your art come to life.</p>
         </div>
         <div class="d-flex justify-content-center gap-5">
-          <a href="/resume.html" class="btn btn-warning text-tertieary fw-bold btn-lg px-5 py-3">
+          <a href="#" class="btn btn-warning text-tertieary fw-bold btn-lg px-5 py-3">
             Resume
           </a>
-          <a href="/portfolio.html" class="btn btn-outline-warning btn-lg fw-bold btn-lg px-5 py-3">
+          <a href="#" class="btn btn-outline-warning btn-lg fw-bold btn-lg px-5 py-3">
             Portfolio
           </a>
         </div>
