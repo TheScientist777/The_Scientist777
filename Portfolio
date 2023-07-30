@@ -36,7 +36,12 @@
     </nav>
 </header>
 <main>
-    <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
+  <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
+  </section>
+  <section class="bg-light-subtle">
+    <div class="container py-5 text-center">
+        <p class="display-1">About Me</p>
+        <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, saepe. Explicabo error illum fugit veniam libero nisi, assumenda deleniti cumque mollitia laborum fuga nam eum rem nihil consequuntur nostrum ab.</p>
       <div class="hero-texc col-lg-4 text-center d-flex flex-column gap-3">
         <p class="text-uppercase">Developer | Animator | right hand manager</p>
         <div class=" mb-5 d-flex flex-column">
