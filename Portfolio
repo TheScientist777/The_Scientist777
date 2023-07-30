@@ -26,9 +26,9 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ms-auto">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
-            <a class="nav-link" >Resume</a>
-            <a class="nav-link" >Portfolio</a>
-            <a class="nav-link">Contact</a>
+            <a class="nav-link" href="#">Resume</a>
+            <a class="nav-link" href="#">Portfolio</a>
+            <a class="nav-link" href="#">Contact</a>
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@
   <main>
     <section class="hero container row mx-auto gap-5 d-flex justify-content-center align-items-center">
       <div class="hero-text col-lg-5 text-center d-flex flex-column gap-3">
-        <p class="text-uppercase">Developer | Mentor | Leader</p>
+        <p class="text-uppercase">Developer | Animator | right hand manager</p>
         <div class=" mb-5 d-flex flex-column">
           <p class="lead fs-1 fw-lighter">With me you can</p>
           <p class="display-1">Make your art come to life.</p>
