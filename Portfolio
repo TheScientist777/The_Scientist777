@@ -58,7 +58,7 @@
     <section class="about bg-light-subtle">
       <div class="container py-5 text-center d-flex flex-column">
         <p class="display-1">About Me</p>
-        <p class="about-text lead mb-5">>My name is Philip Mark Rojas. I am confident in making concept art sketches and turning them into 3D with Blender, Animation, Character rigging, 3D printing, photoshop, drone photography, video editing, and recently got into web developmet using Javascript, html, CSS. I am also great at any social enviroment and a master martial artist.</p>.
+        <p class="about-text lead mb-5">My name is Philip Mark Rojas. I am confident in making concept art sketches and turning them into 3D with Blender, Animation, Character rigging, 3D printing, photoshop, drone photography, video editing, and recently got into web developmet using Javascript, html, CSS. I am also great at any social enviroment and a master martial artist.</p>.
         <div class="fs-1 d-flex justify-content-center gap-4">
             <i class="bi bi-twitter">
             <i class="bi bi-github text-white">
