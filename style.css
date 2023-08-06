@@ -9,3 +9,7 @@
 [class^="icon-"], [class*=" icon-"]{
     background:none;
   }
+
+  input:focus-required:invalid {
+    border: 2px solid red;
+  }
