@@ -10,6 +10,6 @@
     background:none;
   }
 
-  input:focus-required:invalid {
+  input:focus:required:invalid {
     border: 2px solid red;
   }
